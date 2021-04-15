@@ -1,11 +1,12 @@
 def acronym(str):
-    acr = str.split()
-    new = ""
+    strnew = str.split()
+    result = ""
 
-    for i in range(len(acr)):
-        str = acr[i]
-        new = new + (str[0].upper())
-    return new
+    for word in strnew:
+        result += word[0].upper()
+    
+    return result
 
-str = "Universal Serial Bus"
+
+str = input("Enter a String: ")
 print(acronym(str))
