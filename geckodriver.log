@@ -1,0 +1,96 @@
+1618242613412	geckodriver	INFO	Listening on 127.0.0.1:37617
+1618242613420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledgA6KM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618242624048	Marionette	INFO	Listening on port 41023
+1618242624128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1618242652613	Marionette	INFO	Stopped listening on port 41023
+1618242676944	geckodriver	INFO	Listening on 127.0.0.1:49003
+1618242677921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerYyt9i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618242682303	Marionette	INFO	Listening on port 43721
+1618242682391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618242715494	Marionette	INFO	Stopped listening on port 43721
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618242800554	geckodriver	INFO	Listening on 127.0.0.1:58221
+1618242800565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5XE2QS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618242804592	Marionette	INFO	Listening on port 45907
+1618242804757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618242833537	geckodriver	INFO	Listening on 127.0.0.1:34429
+1618242833548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletjQbcg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618242837637	Marionette	INFO	Listening on port 46639
+1618242837703	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618243580446	geckodriver	INFO	Listening on 127.0.0.1:57109
+1618243580457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2eZfDR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618243585776	Marionette	INFO	Listening on port 34309
+1618243585900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618243607956	Marionette	INFO	Stopped listening on port 34309
+1618243739777	geckodriver	INFO	Listening on 127.0.0.1:46607
+1618243739808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtCi05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618243744307	Marionette	INFO	Listening on port 33703
+1618243744416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618243779583	Marionette	INFO	Stopped listening on port 33703
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618243783814	geckodriver	INFO	Listening on 127.0.0.1:41957
+1618243783822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh2nDUT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618243787705	Marionette	INFO	Listening on port 43137
+1618243787768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1618243805306	Marionette	INFO	Stopped listening on port 43137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618243884953	geckodriver	INFO	Listening on 127.0.0.1:58421
+1618243884962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOdoVmA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618243888777	Marionette	INFO	Listening on port 45887
+1618243888913	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618243938522	Marionette	INFO	Stopped listening on port 45887
+
+(firefox:4358): Gdk-WARNING **: 23:43:25.276: Tried to unmap the parent of a popup
+1618251205515	Marionette	INFO	Stopped listening on port 46639
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gdk-Message: 23:50:27.328: Error reading events from display: Broken pipe
+Gdk-Message: 23:50:27.328: Error reading events from display: Broken pipe
+Gdk-Message: 23:50:27.342: Error flushing display: Connection reset by peer
+Gdk-Message: 23:50:27.328: Error reading events from display: Broken pipe
+1618257191192	geckodriver	INFO	Listening on 127.0.0.1:49179
+1618257192025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepwQsKb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618257197741	Marionette	INFO	Listening on port 37799
+1618257197774	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618257202091	Marionette	INFO	Stopped listening on port 37799
+1618257284221	geckodriver	INFO	Listening on 127.0.0.1:46741
+1618257284232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL17pqv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618257287894	Marionette	INFO	Listening on port 33613
+1618257287973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618257306654	Marionette	INFO	Stopped listening on port 33613
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618257314167	geckodriver	INFO	Listening on 127.0.0.1:46669
+1618257314177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIKW7Ue"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618257318287	Marionette	INFO	Listening on port 43831
+1618257318334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618257329936	Marionette	INFO	Stopped listening on port 43831
